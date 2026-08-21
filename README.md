@@ -1,4 +1,4 @@
-# Hi there, I'm Niño 👋
+# Hi there, I'm Shan 👋
 
 **BS Information Technology Student | Network Systems Major**
 
@@ -10,7 +10,7 @@ I am an IT student focusing on network configuration, routing protocols, and pra
 * 🎓 **Education:** BS in Information Technology (Major in Network Systems)
 * 🔭 **Current Focus:** Network infrastructure, Cisco Packet Tracer labs, and network automation
 * 💡 **Interests:** Cryptography, system administration, and data analysis
-* 📍 **Location:** Philippines
+* 📍 **Location:** Iligan City, Philippines
 
 ---
 
